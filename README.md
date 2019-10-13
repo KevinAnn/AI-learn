@@ -1,2 +1,2 @@
-# AI-learn
-Learn AI technology
+# ML-learn
+Learn Machine learning technology
